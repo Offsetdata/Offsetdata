@@ -25,6 +25,6 @@ Offsetdata - Blockchain Data Storage
 
 # <div>
 <a href="https://github.com/Offsetdata/offsetdata-npm">
-  <img alt="Offsetdata NPM" width="366px" src="https://github.com/Offsetdata/Offsetdata/blob/main/assets/git1.png" />
+  <img alt="Offsetdata NPM" width="600px" src="https://github.com/Offsetdata/Offsetdata/blob/main/npm.png" />
 </a>
 </div>
