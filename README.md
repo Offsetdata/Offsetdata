@@ -38,15 +38,15 @@ Offsetdata - Blockchain Data Storage
 Ensure that the information associated with your NFTs is accurate, organized, and accessible
 
 ### Web3 Data Storage
-Get advantage of distributed file systems, decentralized database, decentralized cloud storage
+Get advantage of distributed file systems, decentralized databases, decentralized cloud storage
 
 ### Data Offsetting
 Mitigate environmental impact by reducing carbon emissions associated with data storage and processing
 
 ### Interoperable Solution
-Allow different networks, applications, and protocols exchange data in a seamless and transparent manner
+Allow different networks, applications, and protocols to exchange data in a seamless and transparent manner
 
-### DLT IO Librrary
+### DLT IO Library
 Simple and intuitive interface for developers to build Web3 projects and interact with DLT technologies
 
 ### API Tools
@@ -58,19 +58,19 @@ Accelerate product development. Make it easier for developers to access set of l
 
 
 <a href="https://offsetdata.com">
-  <img alt="Offsetdata NPM" width="210px"  src="https://github.com/Offsetdata/Offsetdata/blob/main/npm.png" />
+  <img alt="Offsetdata NPM" width="410px"  src="https://github.com/Offsetdata/Offsetdata/blob/main/website.png" />
   <p> Offsetdata.com  </p> 
 </a> 
 <a href="https://github.com/Offsetdata/OD-Docs">
-  <img alt="Offsetdata Documentation" width="210px" src="https://github.com/Offsetdata/Offsetdata/blob/main/docs.png" />
+  <img alt="Offsetdata Documentation" width="410px" src="https://github.com/Offsetdata/Offsetdata/blob/main/chrome.png" />
   <p> Chrome Extension</p>
 </a>
 <a href="https://github.com/Offsetdata/OD-Docs">
-  <img alt="Offsetdata Documentation" width="210px" src="https://github.com/Offsetdata/Offsetdata/blob/main/docs.png" />
+  <img alt="Offsetdata Documentation" width="410px" src="https://github.com/Offsetdata/Offsetdata/blob/main/documents.png" />
   <p>Developer Documentation</p>
 </a>
 <a href="https://github.com/Offsetdata/OD-Docs">
-  <img alt="Offsetdata Documentation" width="210px" src="https://github.com/Offsetdata/Offsetdata/blob/main/docs.png" />
+  <img alt="Offsetdata Documentation" width="410px" src="https://github.com/Offsetdata/Offsetdata/blob/main/portal.png" />
     <p>Web Portal</p>
 </a>
 </div>
