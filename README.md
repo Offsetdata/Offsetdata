@@ -61,14 +61,20 @@ Accelerate product development. Make it easier for developers to access set of l
   <img alt="Offsetdata NPM" width="410px"  src="https://github.com/Offsetdata/Offsetdata/blob/main/website.png" />
   <p> Offsetdata.com  </p> 
 </a> 
+<br/>
+<br/>
 <a href="https://github.com/Offsetdata/OD-Docs">
   <img alt="Offsetdata Documentation" width="410px" src="https://github.com/Offsetdata/Offsetdata/blob/main/chrome.png" />
   <p> Chrome Extension</p>
 </a>
+<br/>
+<br/>
 <a href="https://github.com/Offsetdata/OD-Docs">
   <img alt="Offsetdata Documentation" width="410px" src="https://github.com/Offsetdata/Offsetdata/blob/main/documents.png" />
   <p>Developer Documentation</p>
 </a>
+<br/>
+<br/>
 <a href="https://github.com/Offsetdata/OD-Docs">
   <img alt="Offsetdata Documentation" width="410px" src="https://github.com/Offsetdata/Offsetdata/blob/main/portal.png" />
     <p>Web Portal</p>
