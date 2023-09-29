@@ -50,12 +50,7 @@ Simple and intuitive interface for developers to build Web3 projects and interac
 ### Trust 
 Uploads are timestamped and secure, without the need for having multiple back-ups running in different server locations
 
-
-
-
-# <div>
-
-
+# <div> </div>
 
 <a href="https://offsetdata.com">
   <img alt="Offsetdata NPM" width="410px"  src="https://github.com/Offsetdata/Offsetdata/blob/main/website.png" />
