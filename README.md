@@ -34,11 +34,9 @@ Offsetdata - Data Marketplace
 
 
 # <div> </div>
-### Metadata Mapping
-Ensure that the information associated with your NFTs is accurate, organized, and accessible
 
-### Web3 Data Storage
-Get advantage of distributed file systems, decentralized databases, decentralized cloud storage
+### DaaS - Data as a service
+Offsetdata uses the world's leading technologies to develop and provide a data recording solution for the new data economy
 
 ### Data Offsetting
 Mitigate environmental impact by reducing carbon emissions associated with data storage and processing
@@ -49,8 +47,10 @@ Allow different networks, applications, and protocols to exchange data in a seam
 ### DLT IO Library
 Simple and intuitive interface for developers to build Web3 projects and interact with DLT technologies
 
-### API Tools
-Accelerate product development. Make it easier for developers to access set of libraries and frameworks
+### Trust 
+Uploads are timestamped and secure, without the need for having multiple back-ups running in different server locations
+
+
 
 
 # <div>
