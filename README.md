@@ -8,7 +8,7 @@ src="https://img.shields.io/twitter/follow/offsetdata?logo=twitter&style=for-the
 GM Developers 👋 
 ================================
 
-Offsetdata - Blockchain Data Storage
+Offsetdata - Data Marketplace
 ---------------------------------------------------------
 
 **What do we do ?**
